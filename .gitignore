@@ -4,3 +4,7 @@ node_modules
 coverage
 dist
 .idea
+.cache
+src/.temp
+.env
+.env.*
